@@ -1,16 +1,11 @@
-# Title
+# CSS Flexbox Froggy
 
 ## Learning Goals
 
--SWBAT 1
--SWBAT 2
+- Learn to position elements with CSS Flexbox
 
 ## Introduction
 
-## SWBAT 1
+Laying out elements so that they fit and float to fill space in ways that feel 'right' on screens of different sizes is a major challenge in CSS. Flexbox is a syntax for choosing how elements will flow inside their parent.
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+Practice using Flexbox with [Flexbox Froggy](https://flexboxfroggy.com/). The 24 exercises should take about half an hour.
